@@ -63,7 +63,7 @@
             </Step>
 
             <Step step={steps [1]}> 
-                <p>Within the Project Mercury ecosystem, I actively participated in a rigorous 13-week process involving numerous customer interviews and design sprints. This collaborative effort culminated in my team's conceptualization of the innovative term "Stand Off Cargo," intended to optimize cargo delivery systems within challenging operational environments.</p>
+                <p>Within the Project Mercury ecosystem, I participated in a rigorous 13-week process involving numerous customer interviews and design sprints. This collaborative effort culminated in my team's conceptualization of the innovative term "Stand Off Cargo," intended to optimize cargo delivery systems within challenging operational environments.</p>
             </Step>
 
             <Step step={steps [2]}> 
@@ -87,9 +87,9 @@
         <div class="flex-col text-center overflowscroll gap-10 max-w-[800px] mx-auto w-full">
             <h5>
                 With nine years of experience in data analysis within the USAF,
-                 I bring a blend of precision and adaptability to every project. Currently I am working on my front-end development skills and diving into Mojo, 
-                 I enjoy he challenge of mastering new technologies. As a passionate problem-solver fueled by coffee, 
-                 I find joy in crafting innovative solutions. I work at North Spark Defense Lab where I focus rapid prototyping, SBIR facilitation, and course development.
+                 I bring a blend of precision and adaptability to every project. Currently, I am working on my front-end development skills and diving into Mojo, 
+                 I enjoy the challenge of mastering new technologies. As a passionate problem-solver fueled by coffee, 
+                 I find joy in crafting innovative solutions. I work at North Spark Defense Lab where I focus on rapid prototyping, SBIR facilitation, and course development.
             </h5>
         </div>
 
